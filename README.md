@@ -4,7 +4,7 @@
 
 
 - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)  //To be made later
-- [Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)  //To be made later
+- [Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)  //To be made later
 
 <h2>📜 Certifications</h2>
 
