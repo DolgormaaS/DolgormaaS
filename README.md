@@ -4,7 +4,8 @@
 
 
 - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)  //To be made later
-- [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git) 
+- [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)
+- [Network attack analysis and report](https://github.com/Usagitejima/Network-attack-analysis-and-report.git) //In progress
 
 <h2>📜 Certifications</h2>
 
