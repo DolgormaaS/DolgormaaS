@@ -5,7 +5,7 @@
 
 - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)  //To be made later
 - [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)
-- [Network attack analysis and report](https://github.com/Usagitejima/Network-attack-analysis-and-report.git) //In progress
+- [Network attack analysis and report](https://github.com/Usagitejima/Network-attack-analysis-and-report.git)
 
 <h2>📜 Certifications</h2>
 
@@ -13,6 +13,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
+- [LinkedIn](https://www.linkedin.com/in/dolgormaa-sansarsaikhan-b57616304/)
