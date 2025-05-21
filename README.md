@@ -9,7 +9,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s) //In progess
+- [Google Cybersecurity]() //In progess
 
 <h2> 🤳 Connect with me:</h2>
 
