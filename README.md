@@ -5,7 +5,7 @@
 
 - [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)
 - [Network attack analysis and report](https://github.com/Usagitejima/Network-attack-analysis-and-report.git)
-- [Lab activity: Experiment with permissions]
+- [Lab activities](https://github.com/Usagitejima/Lab-activities.git)
 
 <h2>📜 Certifications</h2>
 
