@@ -9,7 +9,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Google Cybersecurity]() //In progess
+- [Google Cybersecurity](https://github.com/DolgormaaS/DolgormaaS/blob/main/GoogleCybersecurityProfessionalCertificateV2_Badge20250703-28-36rq6w.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
