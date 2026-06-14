@@ -15,6 +15,12 @@ I'm a Computer Science student with a passion for cybersecurity, secure systems,
 
 ## 👨‍💻 Cybersecurity Projects
 
+### 🐍 Security Automation
+
+* [Custom Python Tools for Cyber](https://github.com/DolgormaaS/Custom-Python-tools-for-Cyber)
+
+  * Python-based security utilities including network scanning and automation tools.
+
 ### 🔍 Security Auditing
 
 * [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)
@@ -32,12 +38,6 @@ I'm a Computer Science student with a passion for cybersecurity, secure systems,
 * [Lab Activities](https://github.com/Usagitejima/Lab-activities.git)
 
   * Collection of hands-on cybersecurity exercises and practical security investigations.
-
-### 🐍 Security Automation
-
-* [Custom Python Tools for Cyber](https://github.com/DolgormaaS/Custom-Python-tools-for-Cyber)
-
-  * Python-based security utilities including network scanning and automation tools.
 
 ---
 
