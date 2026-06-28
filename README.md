@@ -21,6 +21,12 @@ I'm a Computer Science student with a passion for cybersecurity, secure systems,
 
   * Python-based security utilities including network scanning and automation tools.
 
+### 🚨 Blue-Team Incident Response toolkit 
+
+* [BlueTeam IR Toolkit](https://github.com/DolgormaaS/BlueTeam-IR-Toolkit)
+
+  * Powershell-based incidente response tools including checking of Windows Defender, and Firewall status of current Windows Service.
+    
 ### 🔍 Security Auditing
 
 * [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)
@@ -43,7 +49,7 @@ I'm a Computer Science student with a passion for cybersecurity, secure systems,
 
 ## 🛠️ Technical Skills
 
-**Languages:** C++, Python, Assembly (x86)
+**Languages:** C/C++, Python, Powershell
 
 **Security Tools:** Wireshark, Nmap, Metasploit
 
@@ -61,7 +67,7 @@ I'm a Computer Science student with a passion for cybersecurity, secure systems,
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/dolgormaa-sansarsaikhan-b57616304/
+* LinkedIn: https://www.linkedin.com/in/dolgormaasansarsaikhan/
 * GitHub: https://github.com/DolgormaaS
 
 ---
