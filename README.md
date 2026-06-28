@@ -1,11 +1,11 @@
-# ⋆✴︎ ̊.⋆ Dolgormaa Sansarsaikhan (Donna) 
+# Dolgormaa Sansarsaikhan (Donna) 
 
 **Computer Science @ University of Colorado Boulder · Class of 2028**  
 Security Engineering · Secure Systems · Applied Research
 
 ---
 
-## What I Work On 💻⤷💼ˎˊ˗
+## What I Work On 💼
 
 I build and break systems at the intersection of cybersecurity and low-level computing. My work spans hardware security research, blue-team incident response tooling, and adversarial simulation, grounded in real competition and research experience rather than coursework alone.
 
@@ -13,7 +13,7 @@ Currently an **NSF-funded Undergraduate Researcher** investigating performance o
 
 ---
 
-## Research ✎ᝰ.📓🗒 ˎˊ˗
+## Research 📓
 
 ### CAPULET - CXL Cache-Pooling Architecture
 *NSF REU · Prof. Tamara Lehman's Research Group · University of Colorado Boulder · 2026-Present*
@@ -29,7 +29,7 @@ Contributing to CAPULET, a prototype cache-pooling architecture for CXL-based di
 
 ---
 
-## Cybersecurity Projects 💻🔑🛡 ˎˊ˗
+## Cybersecurity Projects 💻
 
 ### 🛠️ Blue-Team IR Toolkit
 [BlueTeam-IR-Toolkit](https://github.com/DolgormaaS/BlueTeam-IR-Toolkit) · PowerShell
@@ -39,14 +39,14 @@ Modular PowerShell-based incident response toolkit for Windows environments. Cov
 ### 🔍 Custom Python Tools
 [Custom-Python-Tools-for-Cyber](https://github.com/DolgormaaS/Custom-Python-tools-for-Cyber) · Python
 
-Inncludes multi-threaded TCP port scanner with socket-based concurrency, configurable scan ranges, timeout handling, and modular architecture designed for extension to service detection and banner grabbing. Working on implementing banner grabber. 
+Includes multi-threaded TCP port scanner with socket-based concurrency, configurable scan ranges, timeout handling, and modular architecture designed for extension to service detection and banner grabbing. Working on implementing banner grabber. 
 
 ### 🧪 Virtualized Security Research Lab
 VMware-hosted segregated network environment for offensive security practice and malware analysis. Conducted vulnerability assessments against intentional targets (Metasploitable) using Nmap for enumeration and Metasploit for exploitation. Windows sandbox used for development and stability testing of custom security tools.
 
 ---
 
-## Competition Record \( ﾟヮﾟ)/🏆 ˎˊ˗
+## Competition Record 🏆
 
 | Competition | Result | Year |
 |---|---|---|
@@ -57,18 +57,29 @@ VMware-hosted segregated network environment for offensive security practice and
 
 ---
 
-## Recognition 🌟ˎˊ˗
+## Recognition 🌟
 
 - **FS-ISAC Scholar** - $10,000 national merit scholarship and mentorship program, Financial Services Information Sharing & Analysis Center (2025–2026)
+- **NSF REU Researcher** - Federally funded undergraduate research position (2026–Present)
+- **Break Through Tech · Google Cohort** - Competitive Sprinternship selection (Summer 2026)
 
 ---
 
-## Skills 🛠ˎˊ˗
+## Skills 🛠
 
 **Languages:** C/C++, Python, PowerShell, Assembly (x86)  
 **Security Tools:** Wireshark, Nmap, Metasploit  
 **Systems:** Kali Linux, Windows Administration, Active Directory, IIS, VMware, Git  
 **Security & Risk:** NIST CSF, OWASP Top 10, Vulnerability Assessment, Incident Response, Log Analysis, Access Control
+
+---
+
+## Currently Building 🔧
+
+
+- **IR Toolkit** - expanding PowerShell forensics coverage with persistence checks, registry analysis, and threat hunting modules
+- **Custom Python Tools** - implementing banner grabbing and service detection on top of the existing port scanner
+- **Null Vector: Exposure** - a story-driven cybersecurity education RPG built in Python/pygame under Usagi Interactive
 
 ---
 
