@@ -1,75 +1,77 @@
-# Hi, I'm Dolgormaa Sansarsaikhan (Donna) 👋
+# ⋆✴︎ ̊.⋆ Dolgormaa Sansarsaikhan (Donna) 
 
-* 🎓 Computer Science student at the University of Colorado Boulder
-* 🔐 Aspiring Cybersecurity & Systems Security Engineer
-* 🏆 NCCDC Regional Champion | FS-ISAC Scholar | NSF REU Researcher
-* 💻 Interested in Security Engineering, Operating Systems, Hardware Security, and Applied Research
+**Computer Science @ University of Colorado Boulder · Class of 2028**  
+Security Engineering · Secure Systems · Applied Research
 
 ---
 
-## 🚀 About Me
+## What I Work On 💻⤷💼ˎˊ˗
 
-I'm a Computer Science student with a passion for cybersecurity, secure systems, and low-level computing. My experience includes cybersecurity competitions, undergraduate research, and developing custom security tools. I enjoy learning how systems work under the hood and applying that knowledge to solve security challenges.
+I build and break systems at the intersection of cybersecurity and low-level computing. My work spans hardware security research, blue-team incident response tooling, and adversarial simulation, grounded in real competition and research experience rather than coursework alone.
 
----
-
-## 👨‍💻 Cybersecurity Projects
-
-### 🐍 Security Automation
-
-* [Custom Python Tools for Cyber](https://github.com/DolgormaaS/Custom-Python-tools-for-Cyber)
-
-  * Python-based security utilities including network scanning and automation tools.
-
-### 🚨 Blue-Team Incident Response toolkit 
-
-* [BlueTeam IR Toolkit](https://github.com/DolgormaaS/BlueTeam-IR-Toolkit)
-
-  * Powershell-based incidente response tools including checking of Windows Defender, and Firewall status of current Windows Service.
-    
-### 🔍 Security Auditing
-
-* [Internal Security Audit](https://github.com/Usagitejima/Conduct-Security-Audit.git)
-
-  * Conducted a security audit and risk assessment following industry security frameworks.
-
-### 🌐 Network Security Analysis
-
-* [Network Attack Analysis and Report](https://github.com/Usagitejima/Network-attack-analysis-and-report.git)
-
-  * Investigated network traffic and analyzed attack indicators to identify malicious activity.
-
-### 🧪 Security Labs
-
-* [Lab Activities](https://github.com/Usagitejima/Lab-activities.git)
-
-  * Collection of hands-on cybersecurity exercises and practical security investigations.
+Currently an **NSF-funded Undergraduate Researcher** investigating performance optimizations for disaggregated memory systems over CXL interconnects, and an incoming **Software Engineering Sprintern at Google** (Break Through Tech, Summer 2026).
 
 ---
 
-## 🛠️ Technical Skills
+## Research ✎ᝰ.📓🗒 ˎˊ˗
 
-**Languages:** C/C++, Python, Powershell
+### CAPULET - CXL Cache-Pooling Architecture
+*NSF REU · Prof. Tamara Lehman's Research Group · University of Colorado Boulder · 2026-Present*
 
-**Security Tools:** Wireshark, Nmap, Metasploit
+Contributing to CAPULET, a prototype cache-pooling architecture for CXL-based disaggregated memory systems. Work includes:
 
-**Systems & Platforms:** Linux, Kali Linux, Windows Administration, Active Directory, Git
+- Implemented a miss-rate threshold-driven remote fill policy, dynamically routing evicted cache blocks to underutilized remote nodes based on runtime access patterns
+- Built an admission control mechanism (`accepting_remote`) that tracks remote cache capacity across hosts and redirects evictions when target nodes reach capacity, preventing cascading remote fill requests
+- Implemented fairness-aware round-robin node selection to distribute remote cache load evenly across many-node CXL configurations
+- Developed heterogeneous multi-trace workload infrastructure to evaluate the prototype under realistic, divergent per-node access patterns
 
-**Security Concepts:** Vulnerability Assessment, Incident Response, Access Control, Log Analysis, NIST CSF, OWASP Top 10
-
----
-
-## 📜 Certifications
-
-* [Google Cybersecurity Professional Certificate](https://github.com/DolgormaaS/DolgormaaS/blob/main/GoogleCybersecurityProfessionalCertificateV2_Badge20250703-28-36rq6w.pdf)
+*Potential publication in progress.*
 
 ---
 
-## 📫 Connect With Me
+## Cybersecurity Projects 💻🔑🛡 ˎˊ˗
 
-* LinkedIn: https://www.linkedin.com/in/dolgormaasansarsaikhan/
-* GitHub: https://github.com/DolgormaaS
+### 🛠️ Blue-Team IR Toolkit
+[BlueTeam-IR-Toolkit](https://github.com/DolgormaaS/BlueTeam-IR-Toolkit) · PowerShell
+
+Modular PowerShell-based incident response toolkit for Windows environments. Covers current system status, user activity forensics (logon/logoff/account creation via Security event log), Windows Defender and firewall status checks, and active network connection analysis.
+
+### 🔍 Custom Python Tools
+[Custom-Python-Tools-for-Cyber](https://github.com/DolgormaaS/Custom-Python-tools-for-Cyber) · Python
+
+Inncludes multi-threaded TCP port scanner with socket-based concurrency, configurable scan ranges, timeout handling, and modular architecture designed for extension to service detection and banner grabbing. Working on implementing banner grabber. 
+
+### 🧪 Virtualized Security Research Lab
+VMware-hosted segregated network environment for offensive security practice and malware analysis. Conducted vulnerability assessments against intentional targets (Metasploitable) using Nmap for enumeration and Metasploit for exploitation. Windows sandbox used for development and stability testing of custom security tools.
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## Competition Record \( ﾟヮﾟ)/🏆 ˎˊ˗
+
+| Competition | Result | Year |
+|---|---|---|
+| Collegiate Cyber Defense Competition (CCDC) - Regional | **1st Place** | 2026 |
+| National Cyber League (NCL) | **Top 5% Nationally** - 217th / 4,898 teams | 2024 |
+| Cyber 9/12 Strategy Challenge - Washington D.C. | **Semi-Finalist** | 2025 |
+| Cyber 9/12 Strategy Challenge - New York City | **Semi-Finalist · Most Creative Policy Response** | 2024 |
+
+---
+
+## Recognition 🌟ˎˊ˗
+
+- **FS-ISAC Scholar** - $10,000 national merit scholarship and mentorship program, Financial Services Information Sharing & Analysis Center (2025–2026)
+
+---
+
+## Skills 🛠ˎˊ˗
+
+**Languages:** C/C++, Python, PowerShell, Assembly (x86)  
+**Security Tools:** Wireshark, Nmap, Metasploit  
+**Systems:** Kali Linux, Windows Administration, Active Directory, IIS, VMware, Git  
+**Security & Risk:** NIST CSF, OWASP Top 10, Vulnerability Assessment, Incident Response, Log Analysis, Access Control
+
+---
+
+## Connect 🌐ˎˊ˗
+
+[LinkedIn](https://www.linkedin.com/in/dolgormaasansarsaikhan/) · [GitHub](https://github.com/DolgormaaS)
