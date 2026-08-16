@@ -16,7 +16,7 @@ Currently an **NSF-funded Undergraduate Researcher** investigating performance o
 ## Research 📓
 
 ### CAPULET - CXL Cache-Pooling Architecture
-*NSF REU · Prof. Tamara Lehman's Research Group · University of Colorado Boulder · 2026-Present*
+*NSF REU · Prof. Tamara Lehman's Research Group · University of Colorado Boulder · Summer 2026*
 
 Contributing to CAPULET, a prototype cache-pooling architecture for CXL-based disaggregated memory systems. Work includes:
 
