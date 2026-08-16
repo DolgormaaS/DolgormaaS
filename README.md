@@ -9,7 +9,7 @@ Security Engineering · Secure Systems · Applied Research
 
 I build and break systems at the intersection of cybersecurity and low-level computing. My work spans hardware security research, blue-team incident response tooling, and adversarial simulation, grounded in real competition and research experience rather than coursework alone.
 
-Currently an **NSF-funded Undergraduate Researcher** investigating performance optimizations for disaggregated memory systems over CXL interconnects, and an incoming **Software Engineering Sprintern at Google** (Break Through Tech, Summer 2026).
+Currently an **NSF-funded Undergraduate Researcher** investigating performance optimizations for disaggregated memory systems over CXL interconnects, and a **Software Engineering Sprintern at Google** (Break Through Tech, Summer 2026).
 
 ---
 
@@ -26,6 +26,22 @@ Contributing to CAPULET, a prototype cache-pooling architecture for CXL-based di
 - Developed heterogeneous multi-trace workload infrastructure to evaluate the prototype under realistic, divergent per-node access patterns
 
 *Potential publication in progress.*
+
+---
+
+## Software Engineering 🤖
+
+### MSAi Manager
+[MSAi-Manager](https://github.com/Alexz3221/MSAi-Manager) · Python / Google Vertex AI  
+*Software Engineering Sprintern · Google (Break Through Tech) · Summer 2026*
+
+An AI-powered tool that helps clients understand which recent Mandatory Service Agreement (MSA) updates affect the Google Cloud services they use, delivering personalized, plain-language summaries with scheduling to notify clients when new MSAs take effect on their distribution date.
+
+My contributions:
+
+- Built an MSA keyword-extraction component that parses updates and stores key information in structured JSON, enabling downstream matching of service changes to each client's cloud environment
+- Developed an AI agent using Google Vertex AI to generate personalized update summaries, applying output optimization to improve response relevance and consistency
+- Assessed the agent's resilience to direct and indirect prompt injection, probing how adversarial instructions, supplied directly in user prompts or embedded within ingested MSA content that could override intended behavior or manipulate generated output
 
 ---
 
